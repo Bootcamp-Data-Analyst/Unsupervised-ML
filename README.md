@@ -11,6 +11,18 @@ Este proyecto implementa una solución completa de Machine Learning para la clas
 *   **✨ Fácil e Intuitivo**: Los menús ahora muestran descripciones claras en español (ej. "Almendra", "Bosque") en lugar de códigos técnicos (ej. "a", "d").
 *   **🎨 Branding Completo**: Experiencia visual profesional con banner transparente, logo oficial y favicon personalizado.
 
+## Tecnologías Utilizadas
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 ## Estructura del Proyecto
 ```text
 Unsupervised-ML/
